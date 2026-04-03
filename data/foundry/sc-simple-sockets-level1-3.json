@@ -1,0 +1,1130 @@
+[
+  {
+    "_id": "86d42764774a46cf",
+    "name": "Chipped Ônix do Lago Escuro",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega energia mortuária do Lago Escuro.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano necrótico.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "necrotic",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "a588b897dca84906",
+    "name": "Shard Ônix do Lago Escuro",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega energia mortuária do Lago Escuro.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano necrótico.</p><p>Demérito: Desvantagem em testes de Medicine feitos pelo portador até o próximo descanso longo.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "necrotic",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "d88493378188424b",
+    "name": "Polished Ônix do Lago Escuro",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega energia mortuária do Lago Escuro.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano necrótico.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "necrotic",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "231a81657ac94f75",
+    "name": "Chipped Obsidiana de Velkynvelve",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega vidro vulcânico cruelmente afiado.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano perfurante.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "piercing",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "356d1549eae245e6",
+    "name": "Shard Obsidiana de Velkynvelve",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega vidro vulcânico cruelmente afiado.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano perfurante.</p><p>Demérito: O item socketado sofre -1 em jogadas de dano corpo a corpo não mágicas que não venham da gema.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "piercing",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "1a5d57ad33ba4318",
+    "name": "Polished Obsidiana de Velkynvelve",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega vidro vulcânico cruelmente afiado.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano perfurante.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "piercing",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "75a0b8b0b48a4217",
+    "name": "Chipped Cristal de Faerzress",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega ressonância psíquica instável da faerzress.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano psíquico.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "psychic",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "7924976086b94369",
+    "name": "Shard Cristal de Faerzress",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega ressonância psíquica instável da faerzress.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano psíquico.</p><p>Demérito: −1 em testes de concentração.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "psychic",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "a1fca2630f6e4677",
+    "name": "Polished Cristal de Faerzress",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega ressonância psíquica instável da faerzress.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano psíquico.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "psychic",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "2dcbb8cb6399452a",
+    "name": "Chipped Quartzo Fúngico",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-green.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega esporos cristalizados de fungos gigantes.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano de veneno.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "poison",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "c9e90f1bd2a64adf",
+    "name": "Shard Quartzo Fúngico",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-green.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega esporos cristalizados de fungos gigantes.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano de veneno.</p><p>Demérito: −1 em testes contra condição envenenado feitos pelo portador.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "poison",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "df4636ff89be4dc9",
+    "name": "Polished Quartzo Fúngico",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-green.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega esporos cristalizados de fungos gigantes.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano de veneno.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "poison",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "29d53d7ce2e44b08",
+    "name": "Chipped Malaquita Tóxica",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-green.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega veios minerais saturados por toxinas.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano de veneno.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "poison",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "cb7351d14c2b4383",
+    "name": "Shard Malaquita Tóxica",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-green.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega veios minerais saturados por toxinas.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano de veneno.</p><p>Demérito: −1 em testes de Constituição para manter fôlego, marcha forçada ou exaustão similar.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "poison",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "eaa82ef0f3314c3d",
+    "name": "Polished Malaquita Tóxica",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-green.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega veios minerais saturados por toxinas.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano de veneno.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "poison",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "0f047fc6335e4042",
+    "name": "Chipped Rubi de Magma Profundo",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-red.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega calor preso de veios vulcânicos profundos.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano de fogo.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "fire",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "e4a1c54580794a78",
+    "name": "Shard Rubi de Magma Profundo",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-red.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega calor preso de veios vulcânicos profundos.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano de fogo.</p><p>Demérito: O portador sofre −1 em testes e salvaguardas contra frio.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "fire",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "c6c5c3ea9a854bae",
+    "name": "Polished Rubi de Magma Profundo",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-red.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega calor preso de veios vulcânicos profundos.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano de fogo.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "fire",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "28f3775dc3024e3a",
+    "name": "Chipped Safira Abissal",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-blue.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega frio antinatural de poços sem luz.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano de frio.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "cold",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "1f68de9b55f2471e",
+    "name": "Shard Safira Abissal",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-blue.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega frio antinatural de poços sem luz.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano de frio.</p><p>Demérito: −5 ft de deslocamento no primeiro turno de cada combate.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "cold",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "9f6d12598a9d4488",
+    "name": "Polished Safira Abissal",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-blue.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega frio antinatural de poços sem luz.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano de frio.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "cold",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "4461a1bc4f964ff4",
+    "name": "Chipped Pérola do Lago Escuro",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega mineral orgânico raro polido pela pressão do lago.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 AC enquanto socketada em armadura ou escudo.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ]
+      }
+    }
+  },
+  {
+    "_id": "9a71eb3889e64727",
+    "name": "Shard Pérola do Lago Escuro",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega mineral orgânico raro polido pela pressão do lago.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 AC enquanto socketada em armadura ou escudo.</p><p>Demérito: −1 em Stealth.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ]
+      }
+    }
+  },
+  {
+    "_id": "f741af05ed6a494b",
+    "name": "Polished Pérola do Lago Escuro",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega mineral orgânico raro polido pela pressão do lago.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 AC enquanto socketada em armadura ou escudo.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ]
+      }
+    }
+  },
+  {
+    "_id": "b96af31dcbcc4164",
+    "name": "Chipped Opala Pálida",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega refrata luz e sombra em ilusões sutis.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 em Deception.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ]
+      }
+    }
+  },
+  {
+    "_id": "1aeda3af34804c46",
+    "name": "Shard Opala Pálida",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega refrata luz e sombra em ilusões sutis.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 em Deception e +1 em Stealth.</p><p>Demérito: −1 em Perception.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ]
+      }
+    }
+  },
+  {
+    "_id": "66782f543f8e40b4",
+    "name": "Polished Opala Pálida",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega refrata luz e sombra em ilusões sutis.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 em Deception.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ]
+      }
+    }
+  },
+  {
+    "_id": "39655e4be80b4a1b",
+    "name": "Chipped Hematita de Guerra",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega minério pesado favorecido por duergar.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano de concussão.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "bludgeoning",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "4c09cfd6ecdc4415",
+    "name": "Shard Hematita de Guerra",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega minério pesado favorecido por duergar.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano de concussão.</p><p>Demérito: −1 na iniciativa.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "bludgeoning",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "6f09540361b14f61",
+    "name": "Polished Hematita de Guerra",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega minério pesado favorecido por duergar.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano de concussão.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "bludgeoning",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "7eb4a0f4953a4417",
+    "name": "Chipped Cristal de Eco",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega vibrações aprisionadas de galerias profundas.</p><p>Quando usada como gema socketável em um item compatível, concede: +1 dano trovejante.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "thunder",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "e5b40b38fa534017",
+    "name": "Shard Cristal de Eco",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega vibrações aprisionadas de galerias profundas.</p><p>Quando usada como gema socketável em um item compatível, concede: +2 dano trovejante.</p><p>Demérito: −1 em Stealth.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "thunder",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "f4168061ea774dd7",
+    "name": "Polished Cristal de Eco",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega vibrações aprisionadas de galerias profundas.</p><p>Quando usada como gema socketável em um item compatível, concede: +3 dano trovejante.</p><p>Uso sugerido: arma.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "weapon"
+        ],
+        "gemDamage": {
+          "type": "thunder",
+          "value": 3
+        }
+      }
+    }
+  },
+  {
+    "_id": "4da0595703d24fe4",
+    "name": "Chipped Jade Sombrio",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega pedra funerária tomada pela escuridão.</p><p>Quando usada como gema socketável em um item compatível, concede: Resistência 1 a dano necrótico uma vez por descanso curto.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 10,
+        "denomination": "gp"
+      },
+      "rarity": "common"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ],
+        "gemDamage": {
+          "type": "necrotic",
+          "value": 1
+        }
+      }
+    }
+  },
+  {
+    "_id": "d7490f366dc549b0",
+    "name": "Shard Jade Sombrio",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega pedra funerária tomada pela escuridão.</p><p>Quando usada como gema socketável em um item compatível, concede: Resistência 2 a dano necrótico uma vez por descanso curto.</p><p>Demérito: Recebe apenas metade da cura mágica do próximo efeito de cura após um combate.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 30,
+        "denomination": "gp"
+      },
+      "rarity": "uncommon"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ],
+        "gemDamage": {
+          "type": "necrotic",
+          "value": 2
+        }
+      }
+    }
+  },
+  {
+    "_id": "b09377377c944630",
+    "name": "Polished Jade Sombrio",
+    "type": "loot",
+    "img": "icons/commodities/gems/gem-faceted-white.webp",
+    "system": {
+      "description": {
+        "value": "<p>Esta gema do Subterrâneo carrega pedra funerária tomada pela escuridão.</p><p>Quando usada como gema socketável em um item compatível, concede: Resistência 3 a dano necrótico uma vez por descanso curto.</p><p>Uso sugerido: armadura/escudo/equipamento.</p>"
+      },
+      "quantity": 1,
+      "weight": {
+        "value": 0.1
+      },
+      "price": {
+        "value": 75,
+        "denomination": "gp"
+      },
+      "rarity": "rare"
+    },
+    "flags": {
+      "sc-simple-sockets": {
+        "subtype": "gem",
+        "allowedItemTypes": [
+          "equipment"
+        ],
+        "gemDamage": {
+          "type": "necrotic",
+          "value": 3
+        }
+      }
+    }
+  }
+]

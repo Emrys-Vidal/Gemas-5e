@@ -1,0 +1,571 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "UDGEM",
+        "abbreviation": "UDG",
+        "full": "Underdark Gems for Out of the Abyss",
+        "authors": [
+          "Em",
+          "OpenAI"
+        ],
+        "url": "https://github.com/USERNAME/underdark-gems-homebrew-repo",
+        "color": "#5f8dd3"
+      }
+    ]
+  },
+  "item": [
+    {
+      "name": "Chipped Ônix do Lago Escuro",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega energia mortuária do Lago Escuro.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano necrótico.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Ônix do Lago Escuro",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega energia mortuária do Lago Escuro.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano necrótico.",
+        "Demérito: Desvantagem em testes de Medicine feitos pelo portador até o próximo descanso longo.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Ônix do Lago Escuro",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega energia mortuária do Lago Escuro.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano necrótico.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Obsidiana de Velkynvelve",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega vidro vulcânico cruelmente afiado.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano perfurante.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Obsidiana de Velkynvelve",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega vidro vulcânico cruelmente afiado.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano perfurante.",
+        "Demérito: O item socketado sofre -1 em jogadas de dano corpo a corpo não mágicas que não venham da gema.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Obsidiana de Velkynvelve",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega vidro vulcânico cruelmente afiado.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano perfurante.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Cristal de Faerzress",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega ressonância psíquica instável da faerzress.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano psíquico.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Cristal de Faerzress",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega ressonância psíquica instável da faerzress.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano psíquico.",
+        "Demérito: −1 em testes de concentração.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Cristal de Faerzress",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega ressonância psíquica instável da faerzress.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano psíquico.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Quartzo Fúngico",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega esporos cristalizados de fungos gigantes.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano de veneno.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Quartzo Fúngico",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega esporos cristalizados de fungos gigantes.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano de veneno.",
+        "Demérito: −1 em testes contra condição envenenado feitos pelo portador.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Quartzo Fúngico",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega esporos cristalizados de fungos gigantes.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano de veneno.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Malaquita Tóxica",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega veios minerais saturados por toxinas.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano de veneno.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Malaquita Tóxica",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega veios minerais saturados por toxinas.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano de veneno.",
+        "Demérito: −1 em testes de Constituição para manter fôlego, marcha forçada ou exaustão similar.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Malaquita Tóxica",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega veios minerais saturados por toxinas.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano de veneno.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Rubi de Magma Profundo",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega calor preso de veios vulcânicos profundos.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano de fogo.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Rubi de Magma Profundo",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega calor preso de veios vulcânicos profundos.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano de fogo.",
+        "Demérito: O portador sofre −1 em testes e salvaguardas contra frio.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Rubi de Magma Profundo",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega calor preso de veios vulcânicos profundos.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano de fogo.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Safira Abissal",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega frio antinatural de poços sem luz.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano de frio.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Safira Abissal",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega frio antinatural de poços sem luz.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano de frio.",
+        "Demérito: −5 ft de deslocamento no primeiro turno de cada combate.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Safira Abissal",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega frio antinatural de poços sem luz.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano de frio.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Pérola do Lago Escuro",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega mineral orgânico raro polido pela pressão do lago.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 AC enquanto socketada em armadura ou escudo.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    },
+    {
+      "name": "Shard Pérola do Lago Escuro",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega mineral orgânico raro polido pela pressão do lago.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 AC enquanto socketada em armadura ou escudo.",
+        "Demérito: −1 em Stealth.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    },
+    {
+      "name": "Polished Pérola do Lago Escuro",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega mineral orgânico raro polido pela pressão do lago.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 AC enquanto socketada em armadura ou escudo.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    },
+    {
+      "name": "Chipped Opala Pálida",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega refrata luz e sombra em ilusões sutis.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 em Deception.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    },
+    {
+      "name": "Shard Opala Pálida",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega refrata luz e sombra em ilusões sutis.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 em Deception e +1 em Stealth.",
+        "Demérito: −1 em Perception.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    },
+    {
+      "name": "Polished Opala Pálida",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega refrata luz e sombra em ilusões sutis.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 em Deception.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    },
+    {
+      "name": "Chipped Hematita de Guerra",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega minério pesado favorecido por duergar.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano de concussão.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Hematita de Guerra",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega minério pesado favorecido por duergar.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano de concussão.",
+        "Demérito: −1 na iniciativa.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Hematita de Guerra",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega minério pesado favorecido por duergar.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano de concussão.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Cristal de Eco",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega vibrações aprisionadas de galerias profundas.",
+        "Quando usada como gema socketável em um item compatível, concede: +1 dano trovejante.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Shard Cristal de Eco",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega vibrações aprisionadas de galerias profundas.",
+        "Quando usada como gema socketável em um item compatível, concede: +2 dano trovejante.",
+        "Demérito: −1 em Stealth.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Polished Cristal de Eco",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega vibrações aprisionadas de galerias profundas.",
+        "Quando usada como gema socketável em um item compatível, concede: +3 dano trovejante.",
+        "Uso sugerido: arma."
+      ],
+      "miscTags": [
+        "MNT"
+      ]
+    },
+    {
+      "name": "Chipped Jade Sombrio",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "common",
+      "value": 10,
+      "entries": [
+        "Esta gema do Subterrâneo carrega pedra funerária tomada pela escuridão.",
+        "Quando usada como gema socketável em um item compatível, concede: Resistência 1 a dano necrótico uma vez por descanso curto.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    },
+    {
+      "name": "Shard Jade Sombrio",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "uncommon",
+      "value": 30,
+      "entries": [
+        "Esta gema do Subterrâneo carrega pedra funerária tomada pela escuridão.",
+        "Quando usada como gema socketável em um item compatível, concede: Resistência 2 a dano necrótico uma vez por descanso curto.",
+        "Demérito: Recebe apenas metade da cura mágica do próximo efeito de cura após um combate.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    },
+    {
+      "name": "Polished Jade Sombrio",
+      "source": "UDGEM",
+      "type": "G",
+      "rarity": "rare",
+      "value": 75,
+      "entries": [
+        "Esta gema do Subterrâneo carrega pedra funerária tomada pela escuridão.",
+        "Quando usada como gema socketável em um item compatível, concede: Resistência 3 a dano necrótico uma vez por descanso curto.",
+        "Uso sugerido: armadura/escudo/equipamento."
+      ],
+      "miscTags": [
+        "CNS"
+      ]
+    }
+  ]
+}
