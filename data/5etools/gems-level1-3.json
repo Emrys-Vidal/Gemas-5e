@@ -5,14 +5,15 @@
         "json": "UDGEM",
         "abbreviation": "UDG",
         "full": "Underdark Gems for Out of the Abyss",
-        "authors": [
-          "Em",
-          "OpenAI"
-        ],
-        "url": "https://github.com/Emrys-Vidal/Gemas-5e/raw/refs/heads/main/data/5etools/gems-level1-3.json",
-        "color": "#5f8dd3"
+        "authors": ["Em"],
+        "url": "https://github.com/Emrys-Vidal/Gemas-5e",
+        "color": "#5f8dd3",
+        "targetSchema": "1.0.0"
       }
-    ]
+    ],
+    "edition": "classic",
+    "dateAdded": 1775000000,
+    "dateLastModified": 1775000000
   },
   "item": [
     {
@@ -23,8 +24,11 @@
       "value": 10,
       "entries": [
         "Esta gema do Subterrâneo carrega energia mortuária do Lago Escuro.",
-        "Quando usada como gema socketável em um item compatível, concede: +1 dano necrótico.",
-        "Uso sugerido: arma."
+        "Quando usada como gema socketável em um item compatível, concede +1 dano necrótico."
+      ]
+    }
+  ]
+}
       ],
       "miscTags": [
         "MNT"
